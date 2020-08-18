@@ -1,9 +1,9 @@
 [
   {
     "id": "1",
-    "name": "Mercedes Benz",
-    "desc": "Mercedes Benz is a global automobile marque and a division of the German company Daimler AG. The brand is known for luxury vehicles, buses, coaches, and lorries. The headquarters is in Stuttgart, Baden-Württemberg. The name first appeared in 1926 under Daimler-Benz.",
-    "image": "https://drive.google.com/uc?id=11St5abH8NXzxS0LtuqimDaV3IDsXW-bW"
+    "name": "Maruti-Suzuki",
+    "desc": "n 1982, a license and joint venture agreement (JVA) was signed between Maruti Udyog Ltd., and Suzuki of Japan. At first, Maruti Suzuki was mainly an importer of cars. In India's closed market, Maruti received the right to import 40,000 fully built-up Suzuki in the first two years, and even after that the early goal was to use only 33% indigenous parts. This upset the local manufacturers considerably. There were also some concerns that the Indian market was too small to absorb the comparatively large production planned by Maruti Suzuki, with the government even considering adjusting the petrol tax and lowering the excise duty in order to boost sales.[12] Local production commenced in December 1983.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2017_Suzuki_Baleno_SZ3_Dualjet_1.2_Front.jpg/188px-2017_Suzuki_Baleno_SZ3_Dualjet_1.2_Front.jpg"
   },
   {
     "id": "2",
