@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "Maruti-Suzuki",
+    "desc": "n 1982, a license and joint venture agreement (JVA) was signed between Maruti Udyog Ltd., and Suzuki of Japan. At first, Maruti Suzuki was mainly an importer of cars. In India's closed market, Maruti received the right to import 40,000 fully built-up Suzuki in the first two years, and even after that the early goal was to use only 33% indigenous parts. This upset the local manufacturers considerably. There were also some concerns that the Indian market was too small to absorb the comparatively large production planned by Maruti Suzuki, with the government even considering adjusting the petrol tax and lowering the excise duty in order to boost sales.[12] Local production commenced in December 1983.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2017_Suzuki_Baleno_SZ3_Dualjet_1.2_Front.jpg/188px-2017_Suzuki_Baleno_SZ3_Dualjet_1.2_Front.jpg"
+  },
+	{
+		"id": "2",
+		"name": "Mahindra & Mahindra",
+		"desc": "Mahindra & Mahindra was founded as a steel trading company on October 2, 1945 in Ludhiana as Mahindra & Muhammed by brothers Harikrishnan and Jayakrishnan and Jagdish Chandra Mahindra along with Malik Ghulam Muhammad.[6] Anand Mahindra, the present Chairman of Mahindra Group, is the grandson of Jagdish Chandra Mahindra. After India gained independence and Pakistan was formed, Muhammad emigrated to Pakistan. Muhammad acquired Pakistani citizenship and settled in Lahore, and in 1948 became Pakistan's first finance minister.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mahindra_CL_550_MDI_%40_Changanasseri.jpg/255px-Mahindra_CL_550_MDI_%40_Changanasseri.jpg"
+		
+	},
+	
+  {
+    "id": "3",
+    "name": "BMW",
+    "desc": "The first mass-produced turbocharged petrol engine was introduced in 2006, with most engines switching over to turbocharging over the following decade. The first hybrid BMW was the 2010 BMW ActiveHybrid 7, and BMW's first electric car was the BMW i3 city car, which was released in 2013. After many years of establishing a reputation for sporting rear-wheel drive cars, BMW's first front-wheel drive car was the 2014 BMW 2 Series Active Tourer multi-purpose vehicle (MPV).",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/2018_BMW_X2_xDrive20D_M_Sport_X_Automatic_2.0.jpg/489px-2018_BMW_X2_xDrive20D_M_Sport_X_Automatic_2.0.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Bentley",
+    "desc": "Today most Bentley models are assembled at the company's Crewe factory, with a small number assembled at Volkswagen's Dresden factory, Germany,[16] and with bodies for the Continental manufactured in Zwickau and for the Bentayga manufactured at the Volkswagen Bratislava Plant.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/1929_Bentley_front_34_right.jpg/330px-1929_Bentley_front_34_right.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Mustang",
+    "desc": "The Ford Mustang is an American car manufactured by Ford. It was originally based on the platform of the second generation North American Ford Falcon, a compact car.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2018_Ford_Mustang_GT_5.0_Front.jpg/420px-2018_Ford_Mustang_GT_5.0_Front.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Aston Martin",
+    "desc": "Aston Martin Lagonda Global Holdings plc is a British independent manufacturer of luxury sports cars and grand tourers. It was founded in 1913 by Lionel Martin and Robert Bamford.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Aston_Martin_Valkyrie_Verification_Prototype_001_Genf_2019_1Y7A5569.jpg/420px-Aston_Martin_Valkyrie_Verification_Prototype_001_Genf_2019_1Y7A5569.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Lamborghini",
+    "desc": "Automobili Lamborghini is an Italian brand and manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese and tractors Lamborghini Trattori in Pieve di Cento, Italy. The company is owned by the Volkswagen Group through its subsidiary Audi.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Lamborghini_Urus_20180306_Genf_2018.jpg/330px-Lamborghini_Urus_20180306_Genf_2018.jpg"
+  }
+]
